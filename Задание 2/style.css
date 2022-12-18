@@ -1,0 +1,33 @@
+nav{
+    border-radius: 2px;
+}
+footer{
+    color: white;
+    background-color: #343A40;
+    border-radius: 2px;
+}
+body{
+  height: 100vh;
+}
+.start{
+    color: white;
+  }
+  .card-title{
+    text-align: center;
+  }
+  .d-flex{
+    padding: 0.5%;
+    margin-top: 0.5%;
+  }
+  .container-cards{
+    margin: 3%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .btn-cards{
+    margin-left: 10%;
+  }
+  .alert{
+    margin: 3%;
+
+  }

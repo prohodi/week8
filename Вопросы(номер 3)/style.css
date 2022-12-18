@@ -1,0 +1,17 @@
+.col{
+    border: 4px solid rgb(255, 255, 255);
+    background-color: #4976BF;
+    border-color: white;
+    color: white;
+}
+.part2{
+    height: 130px;
+    text-align: center;
+    padding: 2%;
+}
+
+.title, .gallery{
+    padding: 20%;
+    margin: 1%;
+    text-align: center;
+}
